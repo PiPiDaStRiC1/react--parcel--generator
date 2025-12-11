@@ -1,0 +1,17 @@
+{
+  "name": "react-parcel-generator",
+  "version": "1.0.0",
+  "description": "CLI tool to generate React project structure with Parcel",
+  "main": "structure.js",
+  "bin": {
+    "create-react-structure": "./structure.js"
+  },
+  "type": "module",
+  "keywords": ["react", "cli", "generator", "template"],
+  "author": "PiPiDaStRiC1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ваш-username/react-parcel-generator"
+  }
+}
